@@ -1,7 +1,7 @@
 # First RestAPI project
 
 #### Name:
-> Namanganliklar24
+> RestAPI project
 
 #### Link:
 https://ilhomjon55.github.io/first-restAPI-project/
