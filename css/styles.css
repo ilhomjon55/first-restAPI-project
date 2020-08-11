@@ -1,0 +1,74 @@
+@font-face {
+   font-family: 'Chivo';
+   font-style: normal;
+   font-weight: 400;
+   src: url('../fonts/chivo-v11-latin-ext_latin-regular.woff2') format('woff2'), url('../fonts/chivo-v11-latin-ext_latin-regular.woff') format('woff');
+}
+
+@font-face {
+   font-family: 'Chivo';
+   font-style: normal;
+   font-weight: 700;
+   src: url('../fonts/chivo-v11-latin-ext_latin-700.woff2') format('woff2'), url('../fonts/chivo-v11-latin-ext_latin-700.woff') format('woff');
+}
+
+html {
+   height: 100%;
+   box-sizing: border-box;
+}
+
+*, *::before, *::after {
+   box-sizing: inherit;
+}
+
+.visually-hidden {
+   position: absolute;
+   width: 1px;
+   height: 1px;
+   margin: -1px;
+   border: 0;
+   padding: 0;
+   clip: rect(0 0 0 0);
+   overflow: hidden;
+}
+
+body {
+   font-family: "Chivo", "Arial", sans-serif;
+   font-size: 16px;
+   line-height: 1.5;
+   margin: 0;
+   padding: 0;
+}
+
+.container {
+   width: 1200px;
+   margin-top: 30px;
+   margin-left: auto;
+   margin-right: auto;
+}
+ul{
+   display: flex;
+   flex-wrap: wrap;
+}
+h1 {
+   text-align: center;
+   font-size: 24px;
+}
+
+li {
+   display: inline-block;
+   width: 290px;
+   list-style-type: none;
+   padding: 10px;
+   margin: 0;
+   border: 1px solid black;
+   border-collapse: collapse;
+}
+
+p {
+   font-weight: bold;
+}
+
+span {
+   font-weight: normal;
+}
