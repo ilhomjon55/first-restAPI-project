@@ -3,8 +3,6 @@
 #### Name:
 > RestAPI project
 
-#### Link:
-https://ilhomjon55.github.io/first-restAPI-project/
 
 #### Contain: 
 
