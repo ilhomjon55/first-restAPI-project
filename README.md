@@ -4,7 +4,7 @@
 > Namanganliklar24
 
 #### Link:
-https://ilhomjon55.github.io/todo-list/
+https://ilhomjon55.github.io/first-restAPI-project/
 
 #### Contain: 
 
